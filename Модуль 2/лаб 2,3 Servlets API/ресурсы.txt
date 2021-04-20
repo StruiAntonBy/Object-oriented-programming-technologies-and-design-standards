@@ -1,0 +1,5 @@
+1) https://metanit.com/java/javaee/2.3.php
+2) http://danilov-jee.blogspot.com/2013/02/eclipse-tomcat-servlet.html
+3) https://fooobar.com/questions/208438/fastest-way-to-tell-if-a-string-is-a-valid-date
+4) https://javarush.ru/groups/posts/2022-serializacija-i-deserializacija-v-java
+5) https://metanit.com/java/tutorial/6.10.php

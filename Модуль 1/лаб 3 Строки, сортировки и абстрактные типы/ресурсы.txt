@@ -1,0 +1,5 @@
+1) стр 305
+2) https://prog-cpp.ru/sort-bubble/
+3) https://metanit.com/java/tutorial/3.7.php
+4) https://habr.com/ru/post/204968/
+5) http://kvodo.ru/gnome-sorting.html

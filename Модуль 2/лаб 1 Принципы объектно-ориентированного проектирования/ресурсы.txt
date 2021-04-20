@@ -1,0 +1,7 @@
+1) https://javadevblog.com/kak-postrochno-schity-vat-fajl-v-java.html
+2) https://metanit.com/java/tutorial/7.2.php
+3) https://javarush.ru/groups/posts/2347-klass-string-v-java
+4) https://javahelp.online/collections/java-list
+5) https://ru.stackoverflow.com/questions/529518/Как-проверить-что-строка-состоит-из-букв-латинского-алфавита
+6) http://developer.alexanderklimov.ru/android/java/io.php
+7) https://javarush.ru/groups/posts/1973-abstraktnihe-klassih-v-java-na-konkretnihkh-primerakh?test=a

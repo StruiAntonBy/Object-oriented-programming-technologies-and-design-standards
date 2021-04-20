@@ -1,0 +1,11 @@
+1) https://prog-cpp.ru/uml-classes/
+2) https://www.sites.google.com/site/anisimovkhv/learning/pris/lecture/tema11
+3) http://www.telenir.net/uchebniki/samouchitel_uml/p5.php
+4) https://www.informicus.ru/default.aspx?SECTION=6&id=73&subdivisionid=4
+5) https://www.sites.google.com/site/anisimovkhv/learning/pris/lecture/tema12/tema12_2
+6) https://habr.com/ru/post/74330/
+7) https://planerka.info/item/diagrammy-posledovatelnosti/
+8) http://www.telenir.net/uchebniki/samouchitel_uml/p8.php
+9) https://skarlupka.ru/articles.php?id=70
+10) https://blog.sibirix.ru/2020/08/06/uml-diagrams/
+11) https://www.sites.google.com/site/anisimovkhv/learning/pris/lecture/tema13/tema13_3

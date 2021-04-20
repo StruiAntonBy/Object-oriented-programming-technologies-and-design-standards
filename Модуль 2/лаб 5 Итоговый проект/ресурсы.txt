@@ -1,0 +1,10 @@
+1) https://sprosi.pro/questions/838843/kak-heshirovat-stroku-s-sha256-v-java
+2) http://crypt-online.ru/crypts/sha256/
+3) https://puzzleweb.ru/css/15_navbar.php#a1
+4) https://metanit.com/sql/mysql/2.5.php
+5) https://metanit.com/java/database/2.3.php
+6) https://metanit.com/java/javaee/4.10.php
+7) https://ru.stackoverflow.com/questions/457867/Округление-дробных-чисел-до-целых
+8) http://espressocode.top/collections-sort-java-examples/
+9) http://espressocode.top/localdate-with-method-in-java-with-examples/
+10) https://metanit.com/java/tutorial/12.3.php
